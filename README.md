@@ -13,5 +13,5 @@ When the first PCB is made and confirmed it works with components I will tag it 
 # Version 01.00
 
 
-
+![Rendering](https://github.com/altLab/biolab-peristaltic-pump/blob/main/photos/peristaltic-pump.png)
 
